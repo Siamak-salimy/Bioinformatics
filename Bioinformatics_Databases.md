@@ -8,18 +8,18 @@ Bioinformatics databases are an essential resource for researchers and students 
 7. Ensembl
 8. NCBI Gene
 9. RefSeq
-10. ExPASy
-11.BioGRID 
-12.PubChem 
-13.DrugBank 
-14.TCGA 
-15.Reactome  
-16.ArrayExpress  
-17.Gene Ontology (GO)  
-18.International Nucleotide Sequence Database Collaboration (INSDC)  
-19.Database of Single Nucleotide Polymorphisms (dbSNP)  
-20.The Cancer Genome Atlas (TCGA)   
-21.Gene Expression Omnibus (GEO)   
+10. ExPASy</br>
+11.BioGRID </br>
+12.PubChem </br>
+13.DrugBank </br>
+14.TCGA </br>
+15.Reactome </br> 
+16.ArrayExpress  </br>
+17.Gene Ontology (GO)  </br>
+18.International Nucleotide Sequence Database Collaboration (INSDC)  </br>
+19.Database of Single Nucleotide Polymorphisms (dbSNP) </br> 
+20.The Cancer Genome Atlas (TCGA) </br>  
+21.Gene Expression Omnibus (GEO)  </br> 
 22.TransFac   
 23.MiRBase    
 24.InterPro    
