@@ -13,4 +13,3 @@ There are many resources available to learn bioinformatics, which is the field o
 
 6. Research Journals: Reading scientific papers published in journals such as Nucleic Acids Research or Bioinformatics can also help in understanding the latest developments in the field of bioinformatics.
 
-Remember to explore different resources to find what works best for you based on your learning style and level of expertise!
