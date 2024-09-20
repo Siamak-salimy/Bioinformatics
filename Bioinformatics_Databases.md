@@ -7,7 +7,7 @@ Bioinformatics databases are an essential resource for researchers and students 
 6. The Human Genome Variation Database (HGMD)
 7. Ensembl
 8. NCBI Gene
-9. RefSeq
+9. RefSeq</br>
 10. ExPASy</br>
 11.BioGRID </br>
 12.PubChem </br>
