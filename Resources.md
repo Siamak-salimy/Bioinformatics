@@ -1,5 +1,6 @@
 There are many resources available to learn bioinformatics, which is the field of science that combines biology and computational analysis.
 
+
 1. Online Courses: Websites like Coursera, edX, and Khan Academy offer various courses on bioinformatics, including introduction to genomics, data analysis in molecular biology, and more.
 2. Books: There are many textbooks and reference books available on bioinformatics that cover a wide range of topics including sequence analysis, structural bioinformatics, and systems biology.
 3. YouTube Channels: Several educators and researchers have created YouTube channels dedicated to teaching bioinformatics concepts through tutorials, lectures, and demonstrations.
