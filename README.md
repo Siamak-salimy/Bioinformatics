@@ -5,3 +5,4 @@ In the realm of genetics, bioinformatics plays a crucial role in deciphering the
 
 Moreover, bioinformatics has become indispensable in personalized medicine by analyzing individual patient data to tailor treatments according to their specific genetic makeup. This precision medicine approach has led to advancements in diagnosing diseases at an early stage and developing targeted therapies for patients based on their unique genetic profiles. Overall, bioinformatics continues to revolutionize our understanding of living systems while contributing significantly towards advancements in healthcare and biotechnology.
 
+![1729060506184](https://github.com/user-attachments/assets/eeacda07-e662-4ad8-ae8d-9652f5aed73d)
